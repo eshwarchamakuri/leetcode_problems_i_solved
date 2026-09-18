@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0922-sort-array-by-parity-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1512-number-of-good-pairs](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1512-number-of-good-pairs) |
+| [3861-minimum-capacity-box](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3861-minimum-capacity-box) |
 | [3866-first-unique-even-element](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3866-first-unique-even-element) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3912-valid-elements-in-an-array](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3912-valid-elements-in-an-array) |
