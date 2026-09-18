@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1512-number-of-good-pairs](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1512-number-of-good-pairs) |
 | [3866-first-unique-even-element](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3866-first-unique-even-element) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3912-valid-elements-in-an-array](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3912-valid-elements-in-an-array) |
 | [3921-score-validator](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3925-concatenate-array-with-reverse) |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3921-score-validator](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3925-concatenate-array-with-reverse) |
+## Enumeration
+|  |
+| ------- |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3880-minimum-absolute-difference-between-two-values) |
 <!---LeetCode Topics End-->
