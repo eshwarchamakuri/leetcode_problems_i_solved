@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3921-score-validator](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3925-concatenate-array-with-reverse) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+| [3978-unique-middle-element](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3978-unique-middle-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0451-sort-characters-by-frequency) |
 | [1512-number-of-good-pairs](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1512-number-of-good-pairs) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1742-maximum-number-of-balls-in-a-box) |
+| [3978-unique-middle-element](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3978-unique-middle-element) |
 ## String
 |  |
 | ------- |
