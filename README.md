@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0922-sort-array-by-parity-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1512-number-of-good-pairs](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1512-number-of-good-pairs) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3861-minimum-capacity-box](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3861-minimum-capacity-box) |
 | [3866-first-unique-even-element](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3866-first-unique-even-element) |
@@ -33,11 +34,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0451-sort-characters-by-frequency) |
 | [0922-sort-array-by-parity-ii](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0922-sort-array-by-parity-ii) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0540-single-element-in-a-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
 |  |
 | ------- |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0922-sort-array-by-parity-ii](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0922-sort-array-by-parity-ii) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Simulation
 |  |
