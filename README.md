@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1512-number-of-good-pairs](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1512-number-of-good-pairs) |
 | [3912-valid-elements-in-an-array](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3912-valid-elements-in-an-array) |
+| [3921-score-validator](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3921-score-validator) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0451-sort-characters-by-frequency) |
+| [3921-score-validator](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3921-score-validator) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0922-sort-array-by-parity-ii](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0922-sort-array-by-parity-ii) |
+## Simulation
+|  |
+| ------- |
+| [3921-score-validator](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3921-score-validator) |
 <!---LeetCode Topics End-->
