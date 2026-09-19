@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1512-number-of-good-pairs) |
 | [2506-count-pairs-of-similar-strings](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2506-count-pairs-of-similar-strings) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3861-minimum-capacity-box](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3861-minimum-capacity-box) |
 | [3866-first-unique-even-element](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3866-first-unique-even-element) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1805-number-of-different-integers-in-a-string) |
 | [2506-count-pairs-of-similar-strings](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2506-count-pairs-of-similar-strings) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3866-first-unique-even-element](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3866-first-unique-even-element) |
 ## Sorting
 |  |
@@ -97,4 +99,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2506-count-pairs-of-similar-strings](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2506-count-pairs-of-similar-strings) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2869-minimum-operations-to-collect-elements) |
 <!---LeetCode Topics End-->
