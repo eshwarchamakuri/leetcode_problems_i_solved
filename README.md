@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3861-minimum-capacity-box](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3861-minimum-capacity-box) |
 | [3866-first-unique-even-element](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3866-first-unique-even-element) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3880-minimum-absolute-difference-between-two-values) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3912-valid-elements-in-an-array](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3912-valid-elements-in-an-array) |
 | [3921-score-validator](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3925-concatenate-array-with-reverse) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Math
 |  |
 | ------- |
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2506-count-pairs-of-similar-strings](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2506-count-pairs-of-similar-strings) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2869-minimum-operations-to-collect-elements) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
