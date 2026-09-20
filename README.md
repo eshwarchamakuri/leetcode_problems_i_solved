@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0451-sort-characters-by-frequency) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1805-number-of-different-integers-in-a-string) |
 | [2506-count-pairs-of-similar-strings](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2506-count-pairs-of-similar-strings) |
+| [3498-reverse-degree-of-a-string](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3498-reverse-degree-of-a-string) |
 | [3921-score-validator](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3921-score-validator) |
 ## Heap (Priority Queue)
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3498-reverse-degree-of-a-string) |
 | [3921-score-validator](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3925-concatenate-array-with-reverse) |
 ## Enumeration
