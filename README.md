@@ -147,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3745-maximize-expression-of-three-elements) |
+## Database
+|  |
+| ------- |
+| [1978-employees-whose-manager-left-the-company](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1978-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
