@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1512-number-of-good-pairs](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1512-number-of-good-pairs) |
 | [2506-count-pairs-of-similar-strings](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2506-count-pairs-of-similar-strings) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1805-number-of-different-integers-in-a-string) |
 | [2506-count-pairs-of-similar-strings](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2506-count-pairs-of-similar-strings) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3663-find-the-least-frequent-digit](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3668-restore-finishing-order) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0451-sort-characters-by-frequency) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1805-number-of-different-integers-in-a-string) |
 | [2506-count-pairs-of-similar-strings](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2506-count-pairs-of-similar-strings) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3498-reverse-degree-of-a-string](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3838-weighted-word-mapping) |
 | [3921-score-validator](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3921-score-validator) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3498-reverse-degree-of-a-string](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3838-weighted-word-mapping) |
 | [3842-toggle-light-bulbs](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3842-toggle-light-bulbs) |
