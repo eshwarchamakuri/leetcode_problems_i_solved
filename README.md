@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2206-divide-array-into-equal-pairs](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2206-divide-array-into-equal-pairs) |
 | [2506-count-pairs-of-similar-strings](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2506-count-pairs-of-similar-strings) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2206-divide-array-into-equal-pairs](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2206-divide-array-into-equal-pairs) |
 | [2506-count-pairs-of-similar-strings](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2506-count-pairs-of-similar-strings) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2869-minimum-operations-to-collect-elements) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2206-divide-array-into-equal-pairs](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2206-divide-array-into-equal-pairs) |
 | [2506-count-pairs-of-similar-strings](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2506-count-pairs-of-similar-strings) |
 | [3663-find-the-least-frequent-digit](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3663-find-the-least-frequent-digit) |
 | [3866-first-unique-even-element](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3866-first-unique-even-element) |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [2206-divide-array-into-equal-pairs](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2206-divide-array-into-equal-pairs) |
 | [2506-count-pairs-of-similar-strings](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2506-count-pairs-of-similar-strings) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2869-minimum-operations-to-collect-elements) |
 ## Graph Theory
