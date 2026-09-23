@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2869-minimum-operations-to-collect-elements](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3663-find-the-least-frequent-digit](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3668-restore-finishing-order) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3678-smallest-absent-positive-greater-than-average) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1512-number-of-good-pairs) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3663-find-the-least-frequent-digit](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3663-find-the-least-frequent-digit) |
 | [3697-compute-decimal-representation](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3697-compute-decimal-representation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
