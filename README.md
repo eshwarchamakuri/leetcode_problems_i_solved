@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3668-restore-finishing-order) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3678-smallest-absent-positive-greater-than-average) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2506-count-pairs-of-similar-strings](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2506-count-pairs-of-similar-strings) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2869-minimum-operations-to-collect-elements) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3668-restore-finishing-order) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3678-smallest-absent-positive-greater-than-average) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3663-find-the-least-frequent-digit) |
 | [3697-compute-decimal-representation](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3697-compute-decimal-representation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2206-divide-array-into-equal-pairs) |
 | [2506-count-pairs-of-similar-strings](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2506-count-pairs-of-similar-strings) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3663-find-the-least-frequent-digit) |
 | [3866-first-unique-even-element](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3866-first-unique-even-element) |
 | [3978-unique-middle-element](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3978-unique-middle-element) |
@@ -198,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+## Number Theory
+|  |
+| ------- |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3591-check-if-any-element-has-prime-frequency) |
 <!---LeetCode Topics End-->
