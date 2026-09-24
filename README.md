@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1512-number-of-good-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1773-count-items-matching-a-rule](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1773-count-items-matching-a-rule) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1980-find-unique-binary-string](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1980-find-unique-binary-string) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
