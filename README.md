@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0540-single-element-in-a-sorted-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0922-sort-array-by-parity-ii) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1512-number-of-good-pairs](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1512-number-of-good-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0451-sort-characters-by-frequency) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1512-number-of-good-pairs](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1512-number-of-good-pairs) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1805-number-of-different-integers-in-a-string) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
