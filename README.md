@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1512-number-of-good-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1980-find-unique-binary-string](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1980-find-unique-binary-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1512-number-of-good-pairs) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1805-number-of-different-integers-in-a-string) |
+| [1980-find-unique-binary-string](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1980-find-unique-binary-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0014-longest-common-prefix) |
 | [0451-sort-characters-by-frequency](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0451-sort-characters-by-frequency) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1805-number-of-different-integers-in-a-string) |
+| [1980-find-unique-binary-string](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1980-find-unique-binary-string) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2506-count-pairs-of-similar-strings](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2506-count-pairs-of-similar-strings) |
@@ -220,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3432-count-partitions-with-even-sum-difference) |
+## Backtracking
+|  |
+| ------- |
+| [1980-find-unique-binary-string](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1980-find-unique-binary-string) |
 <!---LeetCode Topics End-->
