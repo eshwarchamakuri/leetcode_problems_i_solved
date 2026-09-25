@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2869-minimum-operations-to-collect-elements) |
+| [2974-minimum-number-game](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2974-minimum-number-game) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2974-minimum-number-game](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2974-minimum-number-game) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3745-maximize-expression-of-three-elements) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3769-sort-integers-by-binary-reflection) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0451-sort-characters-by-frequency) |
+| [2974-minimum-number-game](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2974-minimum-number-game) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2974-minimum-number-game](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2974-minimum-number-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3838-weighted-word-mapping) |
 | [3842-toggle-light-bulbs](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3842-toggle-light-bulbs) |
