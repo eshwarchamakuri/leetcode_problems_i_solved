@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3131-find-the-integer-added-to-array-i](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3099-harshad-number](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3099-harshad-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0451-sort-characters-by-frequency) |
 | [2974-minimum-number-game](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2974-minimum-number-game) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2974-minimum-number-game](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2974-minimum-number-game) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3838-weighted-word-mapping) |
 | [3842-toggle-light-bulbs](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3842-toggle-light-bulbs) |
