@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3842-toggle-light-bulbs](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3842-toggle-light-bulbs) |
 | [3866-first-unique-even-element](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3866-first-unique-even-element) |
+| [3945-digit-frequency-score](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3697-compute-decimal-representation](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3697-compute-decimal-representation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3783-mirror-distance-of-an-integer) |
+| [3945-digit-frequency-score](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3945-digit-frequency-score) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Counting
 |  |
