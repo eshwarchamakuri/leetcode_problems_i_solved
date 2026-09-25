@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3046-split-the-array](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3046-split-the-array) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3663-find-the-least-frequent-digit) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
