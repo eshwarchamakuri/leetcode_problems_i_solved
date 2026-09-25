@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3099-harshad-number](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3099-harshad-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
