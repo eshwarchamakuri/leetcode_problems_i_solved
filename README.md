@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1512-number-of-good-pairs](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1512-number-of-good-pairs) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1773-count-items-matching-a-rule](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1773-count-items-matching-a-rule) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0451-sort-characters-by-frequency) |
 | [0922-sort-array-by-parity-ii](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0922-sort-array-by-parity-ii) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
