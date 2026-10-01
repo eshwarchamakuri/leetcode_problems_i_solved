@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0002-add-two-numbers) |
 | [1512-number-of-good-pairs](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1512-number-of-good-pairs) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2485-find-the-pivot-integer](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2485-find-the-pivot-integer) |
@@ -302,4 +303,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0004-median-of-two-sorted-arrays) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
