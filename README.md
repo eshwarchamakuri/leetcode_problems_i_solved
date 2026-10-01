@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0020-valid-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0451-sort-characters-by-frequency) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1624-largest-substring-between-two-equal-characters) |
@@ -290,10 +291,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Divide and Conquer
 |  |
