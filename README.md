@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0015-3sum) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0189-rotate-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0015-3sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0451-sort-characters-by-frequency) |
 | [0922-sort-array-by-parity-ii](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0922-sort-array-by-parity-ii) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0015-3sum) |
 | [0189-rotate-array](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0189-rotate-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0922-sort-array-by-parity-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1877-minimize-maximum-pair-sum-in-array) |
