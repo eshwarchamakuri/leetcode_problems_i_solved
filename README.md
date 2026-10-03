@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0189-rotate-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0540-single-element-in-a-sorted-array) |
+| [0643-maximum-average-subarray-i](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0643-maximum-average-subarray-i) |
 | [0922-sort-array-by-parity-ii](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0922-sort-array-by-parity-ii) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -326,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0002-add-two-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
