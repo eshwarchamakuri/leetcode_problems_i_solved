@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0451-sort-characters-by-frequency) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0451-sort-characters-by-frequency) |
 | [0922-sort-array-by-parity-ii](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0922-sort-array-by-parity-ii) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0451-sort-characters-by-frequency) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
