@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1512-number-of-good-pairs](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1512-number-of-good-pairs) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0451-sort-characters-by-frequency) |
 | [0922-sort-array-by-parity-ii](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0922-sort-array-by-parity-ii) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0451-sort-characters-by-frequency) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1512-number-of-good-pairs](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1512-number-of-good-pairs) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2206-divide-array-into-equal-pairs](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2206-divide-array-into-equal-pairs) |
 | [2506-count-pairs-of-similar-strings](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2506-count-pairs-of-similar-strings) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2869-minimum-operations-to-collect-elements) |
