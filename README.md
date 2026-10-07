@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3833-count-dominant-indices](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3833-count-dominant-indices) |
 | [3838-weighted-word-mapping](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3838-weighted-word-mapping) |
 | [3842-toggle-light-bulbs](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3842-toggle-light-bulbs) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3861-minimum-capacity-box](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3861-minimum-capacity-box) |
 | [3866-first-unique-even-element](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3866-first-unique-even-element) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3880-minimum-absolute-difference-between-two-values) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3842-toggle-light-bulbs](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3842-toggle-light-bulbs) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3866-first-unique-even-element) |
 | [3945-digit-frequency-score](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3945-digit-frequency-score) |
 ## Sorting
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3046-split-the-array](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3046-split-the-array) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3663-find-the-least-frequent-digit) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3866-first-unique-even-element) |
 | [3978-unique-middle-element](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3978-unique-middle-element) |
 ## String
