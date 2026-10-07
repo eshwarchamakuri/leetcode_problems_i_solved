@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0189-rotate-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0506-relative-ranks](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0643-maximum-average-subarray-i) |
 | [0922-sort-array-by-parity-ii](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0922-sort-array-by-parity-ii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0506-relative-ranks) |
 | [0922-sort-array-by-parity-ii](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0922-sort-array-by-parity-ii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/0506-relative-ranks) |
 | [2974-minimum-number-game](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Bucket Sort
