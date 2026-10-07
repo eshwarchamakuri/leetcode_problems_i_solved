@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3978-unique-middle-element](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3978-unique-middle-element) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
+| [3996-even-number-of-knight-moves](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3996-even-number-of-knight-moves) |
 ## Hash Table
 |  |
 | ------- |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3783-mirror-distance-of-an-integer](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3783-mirror-distance-of-an-integer) |
 | [3945-digit-frequency-score](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3945-digit-frequency-score) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
+| [3996-even-number-of-knight-moves](https://github.com/eshwarchamakuri/leetcode_problems_i_solved/tree/master/3996-even-number-of-knight-moves) |
 ## Counting
 |  |
 | ------- |
