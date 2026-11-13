@@ -4,7 +4,6 @@ class Solution:
         n=len(e)
         value=0
         for i in range(len(e)):
-            letter_value=ord(e[i])-ord('A')+1
-            value=value+((pow(26,i))*letter_value)
+            value=value+((pow(26,i))*(ord(e[i])-ord('A')+1))
         return value
         
